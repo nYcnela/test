@@ -1,0 +1,2 @@
+echo "Serwus Git-cie!"
+
